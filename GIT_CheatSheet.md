@@ -1,5 +1,10 @@
 # Git CheatSheet
 
+## Clone a Repository
+```bash
+git clone <url>
+```
+
 ## Credential Management
 Add Credentials to GIT
 ```bash
